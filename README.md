@@ -6,9 +6,8 @@ This project presents an interactive Tableau Dashboard built to analyze Customer
 
 ## 🖼️ Dashboard Screenshot
 
-![Tableau Dashboard](dashboard.png)
+![Tableau Dashboard](https://github.com/siddemmohankrishna/customer-behavior-analysis-tableau-dashboard/blob/main/Screenshot%202026-02-16%20181006.png)
 
-> Note: Upload your dashboard screenshot as `dashboard.png` in the repository folder. You can rename the file and update the name here if needed.
 
 ## 🎯 Objectives
 
